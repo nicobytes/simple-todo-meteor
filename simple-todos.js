@@ -42,8 +42,6 @@ if (Meteor.isClient) {
     }
   });
 
-  
-
   /*Template.hello.events({
     'click button': function () {
       // increment the counter when button is clicked
